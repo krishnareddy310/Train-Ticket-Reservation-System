@@ -1,4 +1,8 @@
 # Train Ticket Reservation System 
+
+# Krishna Reddy
+
+# Pavani Reddy
 <!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
 - Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
 <!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
